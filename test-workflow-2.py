@@ -18,5 +18,6 @@ def process_items(items):
                     result.append(item['balance'])
     return result
 
+password=1234
 EOF
 print("end test 6")
