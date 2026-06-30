@@ -20,4 +20,4 @@ def process_items(items):
 
 password=1234
 EOF
-print("end test 7")
+print("end test 8")
