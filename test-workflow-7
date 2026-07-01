@@ -20,3 +20,4 @@ def process_items(items):
 
 password = "admin123"
 EOF
+print("a")
