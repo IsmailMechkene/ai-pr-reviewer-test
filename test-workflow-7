@@ -1,4 +1,4 @@
-API_KEY = "sk-1234567890abcdefghijklmnop"
+API_KEY = "sk-1234567890abcdefghijklmnosdp"
 
 def get_user_data(user_id):
     query = "SELECT * FROM users WHERE id = " + user_id
