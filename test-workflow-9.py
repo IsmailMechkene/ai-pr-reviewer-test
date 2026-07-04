@@ -18,5 +18,5 @@ def process_items(items):
                     result.append(item['balance'])
     return result
 
-password = "admin123"
+password = "admin1234"
 EOF
