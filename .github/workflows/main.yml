@@ -21,3 +21,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           openai_api_key: ${{ secrets.AZURE_OPENAI_API_KEY }}
           openai_endpoint: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          app_id: ${{ secrets.APP_ID }}
+          app_private_key: ${{ secrets.APP_PRIVATE_KEY }}
+          app_installation_id: ${{ secrets.APP_INSTALLATION_ID }}
